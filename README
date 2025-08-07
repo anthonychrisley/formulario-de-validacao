@@ -1,0 +1,27 @@
+# Formulário de Validação
+
+Este projeto é um formulário simples de contato com validação de campos, desenvolvido utilizando **HTML**, **CSS** e **JavaScript**. O objetivo é garantir que todos os campos obrigatórios estejam preenchidos antes de permitir o envio da mensagem.
+
+## ✨ Funcionalidades
+
+- Validação de campos obrigatórios.
+- Exibição de mensagens de erro ao tentar enviar sem preencher os campos.
+- Layout responsivo com design simples e objetivo.
+
+## 💻 Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- JavaScript
+
+## 🔗 Acesse o projeto online
+
+Você pode visualizar o projeto publicado através do GitHub Pages:  
+[👉 Clique aqui para acessar](https://anthonychrisley.github.io/formulario-de-validacao/)
+
+## 📸 Preview do Projeto
+
+![Preview do Formulário](./images/formulario.png)
+
+
+
